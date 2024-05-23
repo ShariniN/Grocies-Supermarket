@@ -135,7 +135,7 @@ input[type="checkbox"]{
 @media (max-width: 920px) {
   .menu-btn{
     display: block;
-    position: relative;
+    position: fixed;
     justify-self: center;
   }
   nav .menu-btn i{
