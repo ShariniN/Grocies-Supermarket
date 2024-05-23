@@ -296,7 +296,7 @@ nav .menu-btn i{
   
   input[type="text"], input[type="tel"], input[type="email"], select{
     width: 70%;
-    height: 30px;
+    height: 40px;
     padding: 5px 10px;
     margin-bottom: 10px;
     border: 1px solid #dadada;

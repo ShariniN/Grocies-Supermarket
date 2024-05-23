@@ -198,33 +198,6 @@ input[type="checkbox"]{
   }
 }
 
-/*search bar in the nav bar*/
-.search {
-  align-items: center;
-}
-
-.search input{
-  padding: 10px;
-  width: fit-content;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  margin-right: 10px;
-}
-
-.search button {
-  background: linear-gradient(375deg, #1cc7d0, #2ede98);
-  color: rgb(0, 0, 0);
-  padding: 10px 10px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-  .search button:hover{
-    background: linear-gradient(375deg, #7eb9bc, #88cfb3);
-    color:rgb(3, 3, 3);
-  }
-
 /*Order form*/
 .container{
   width: 100%;
@@ -260,7 +233,7 @@ label{
 input[type="text"], input[type="tel"], input[type="email"], select
 {
   width: 70%;
-  height: 30px;
+  height: 40px;
   padding: 5px 10px;
   margin-bottom: 10px;
   border: 1px solid #dadada;
