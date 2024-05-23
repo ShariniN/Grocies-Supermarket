@@ -515,7 +515,7 @@ nav .menu-btn i{
   @media only screen and (min-width: 840px) and (max-width: 1200px) {
     .flip-card{
       width: 100%;
-      margin-top: 5%;
+      margin-top: 30%;
     }
     .container{
       margin-top: 12%;
@@ -528,6 +528,10 @@ nav .menu-btn i{
       border: 1px solid #ccc;
       border-radius: 4px;
       margin-right: 2px;
+    }
+    .flip-card{
+      width: 100%;
+      margin-top: -5%;
     }
   }
   
