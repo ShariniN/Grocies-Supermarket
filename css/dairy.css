@@ -42,7 +42,7 @@ nav ul li a{
 nav ul li a.active,
 nav ul li a:hover{
   color: #111;
-  background: linear-gradient(375deg, #1cc7d0, #2ede98);
+  background: linear-gradient(375deg, #06a9e0, #82eefd);  
 }
 nav .menu-btn i{
   color: #fff;
@@ -74,7 +74,7 @@ input[type="checkbox"]{
 }
 
 .dropbtn:hover{
-  background: linear-gradient(375deg, #1cc7d0, #2ede98);
+  background: linear-gradient(375deg, #06a9e0, #82eefd);  
 }
 
 .dropdown-content {
@@ -94,7 +94,7 @@ input[type="checkbox"]{
 }
 
 .dropdown-content a:hover {
-  background: linear-gradient(375deg, #1cc7d0, #2ede98);
+  background: linear-gradient(375deg, #06a9e0, #82eefd);  
 }
 
 .dropdown:hover .dropdown-content {
@@ -117,7 +117,7 @@ input[type="checkbox"]{
 }
 
 .search button {
-  background: linear-gradient(375deg, #1cc7d0, #2ede98);
+  background: linear-gradient(375deg, #06a9e0, #82eefd);  
   color: rgb(0, 0, 0);
   padding: 10px 10px;
   border: none;
@@ -126,7 +126,7 @@ input[type="checkbox"]{
 }
 
 .search button:hover{
-  background: linear-gradient(375deg, #7eb9bc, #88cfb3);
+  background: linear-gradient(375deg, #2ec9fd, #a5f2fd);
   color:rgb(3, 3, 3);
 }
 
