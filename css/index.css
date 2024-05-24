@@ -14,7 +14,6 @@ nav{
   width: 100%;
   background: #ffffff;
   align-items: center;
-  justify-content: space-between;
   flex-wrap: wrap;
 }
 nav .logo{
@@ -399,7 +398,6 @@ input[type="checkbox"]{
       position: absolute;
       top: 50%;
       left: 0;
-      transform: translateY(-50%);
       color: #000000;
       font-size: 16px;
       pointer-events: none;
@@ -635,5 +633,6 @@ input[type="checkbox"]{
         border-radius: 4px;
         margin-right: 2px;
       }
+
     }
    
