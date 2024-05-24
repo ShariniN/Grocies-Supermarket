@@ -333,7 +333,7 @@ input[type="checkbox"]{
     .footer {
       position: absolute;
       width: 100%;
-      background: linear-gradient(375deg, #1cc7d0, #2ede98);
+      background: linear-gradient(375deg, #42bf42, #aef359);
       border-radius: 6px; 
     }
     
